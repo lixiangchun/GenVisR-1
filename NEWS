@@ -1,4 +1,4 @@
-CHANGES IN VERSION 1.0.3
+CHANGES IN VERSION 1.0.4
 --------------------------
 
 - added clarification for use of cnFreq (cnFreq requires consistent windows across samples!)
