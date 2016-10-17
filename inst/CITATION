@@ -1,0 +1,18 @@
+citHeader("To cite GenVisR, please use:")
+
+citEntry(
+        entry = "article",
+        journal = "Bioinformatics",
+        year = "2016",
+        title = "GenVisR: Genomic Visualizations in R",
+        author = personList(as.person("Zachary L. Skidmore"),
+                            as.person("Alex H. Wagner"),
+                            as.person("Robert Lesurf"),
+                            as.person("Katie M. Campbell"),
+                            as.person("Jason Kunisaki"),
+                            as.person("Obi L. Griffith"),
+                            as.person("Malachi Griffith")),
+        textVersion = paste("Skidmore et al. 2016",
+                            "GenVisR: Genomic Visualizations in R",
+                            "Bioinformatics doi: 10.1093/bioinformatics/btw325")
+)
